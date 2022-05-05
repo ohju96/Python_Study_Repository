@@ -1,5 +1,9 @@
-n, m = map(int, input().split())
-a = list(map(int, input().split()))
+# n, m = map(int, input().split())
+# a = list(map(int, input().split()))
+
+n = 4
+m = 2
+a = [3, 4, 2, 1]
 
 a.sort()
 lt = 0
