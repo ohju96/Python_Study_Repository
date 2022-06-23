@@ -1,5 +1,3 @@
-import sys
-
 def reverse(x):
     # 초기화 하나 한다.
     res=0
